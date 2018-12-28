@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 As sourse data for work was used Human Activity Recognition Using Smartphones Data Set. 
 
 ## About R Script
-File with R code "Analysis.R" perform 5 following steps:
+File with R code "run_analysis.R" perform 5 following steps:
 
 1. Merging the training and the test sets to create one data set.
 
